@@ -1,5 +1,7 @@
 #ifndef AVL_H
 #define AVL_H
+#define true 1
+#define false 0
 
 typedef int TIPOCHAVE;
 typedef struct aux {
