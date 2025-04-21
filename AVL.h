@@ -4,6 +4,8 @@
 #define false 0
 
 typedef int TIPOCHAVE;
+typedef int bool;
+
 typedef struct aux {
 	TIPOCHAVE chave;
 	struct aux *esq;
